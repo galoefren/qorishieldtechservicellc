@@ -1,8 +1,0 @@
-{
-  // Must match the Worker name in the Cloudflare dashboard
-  "name": "noisy-rice-809d",
-  "compatibility_date": "2026-10-01",
-  "assets": {
-    "directory": "./public"
-  }
-}
